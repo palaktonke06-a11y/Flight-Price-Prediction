@@ -1,9 +1,3 @@
-# ✈️ Flight Price Prediction
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/7893/7893979.png" width="150">
-</p>
-
 <h1 align="center">✈️ Flight Price Prediction</h1>
 
 <p align="center">
