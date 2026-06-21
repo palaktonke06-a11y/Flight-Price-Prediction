@@ -35,7 +35,7 @@ This project aims to predict flight ticket prices using Machine Learning techniq
 
 ## 🚀 Project Workflow
 
-```📥 Dataset ➜ 🧹 Data Cleaning ➜ 🔧 Feature Engineering ➜ 📊 Exploratory Data Analysis ➜ 🤖 Model Training ➜ 💰 Flight Price Prediction
+```📥 Dataset ➜ 🧹 Data Cleaning ➜ 🔧 Feature Engineering ➜ 📊 Exploratory Data Analysis ➜ 🤖 Model Training ➜ 💰 Flight Price Prediction ```
 
 ---
 
