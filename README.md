@@ -35,37 +35,7 @@ This project aims to predict flight ticket prices using Machine Learning techniq
 
 ## 🚀 Project Workflow
 
-## 🤖 Model Pipeline
-
-```text
-📥 Raw Flight Data
-        │
-        ▼
-🧹 Data Cleaning
-        │
-        ▼
-🔧 Missing Value Handling
-        │
-        ▼
-📅 Date & Time Feature Extraction
-        │
-        ▼
-🔤 Categorical Encoding
-   (One-Hot Encoding)
-        │
-        ▼
-📊 Feature Selection
-        │
-        ▼
-✂️ Train-Test Split
-        │
-        ▼
-🤖 Model Training
-        │
-        ▼
-💰 Flight Price Prediction
-```
-
+```📥 Dataset ➜ 🧹 Data Cleaning ➜ 🔧 Feature Engineering ➜ 📊 Exploratory Data Analysis ➜ 🤖 Model Training ➜ 💰 Flight Price Prediction
 
 ---
 
@@ -116,23 +86,36 @@ The following preprocessing and feature engineering steps were performed:
 
 Regression techniques were used to predict flight prices based on historical data.
 
-### Model Pipeline
+## 🤖 Model Pipeline
 
 ```text
-Data Preprocessing
+📥 Raw Flight Data
         │
         ▼
-Feature Engineering
+🧹 Data Cleaning
         │
         ▼
-Train-Test Split
+🔧 Missing Value Handling
         │
         ▼
-Model Training
+📅 Date & Time Feature Extraction
         │
         ▼
-Price Prediction
-```
+🔤 Categorical Encoding
+   (One-Hot Encoding)
+        │
+        ▼
+📊 Feature Selection
+        │
+        ▼
+✂️ Train-Test Split
+        │
+        ▼
+🤖 Model Training
+        │
+        ▼
+💰Flight Price Prediction
+``` 
 
 ---
 
