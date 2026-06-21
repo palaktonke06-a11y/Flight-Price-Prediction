@@ -84,10 +84,6 @@ The following preprocessing and feature engineering steps were performed:
 
 ---
 
-## 🤖 Machine Learning Model
-
-Regression techniques were used to predict flight prices based on historical data.
-
 ## 🤖 Model Pipeline
 
 ```text
